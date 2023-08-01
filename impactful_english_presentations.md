@@ -1,7 +1,7 @@
 <!--
 author:   Mark Jacob
 email:    Mark.Jacob@iuz.tu-freiberg.de
-version:  0.1.0
+version:  0.0.1
 language: en
 narrator: US English Female
 
