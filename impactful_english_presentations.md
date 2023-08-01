@@ -13,6 +13,8 @@ comment:  A series of videos with tips and phrases for using in presentations.
 
 # IEP Video series
 
+> Here are 9 videos with tips and phrases for you to use in your English presentations. Enjoy!
+
 ## Introducing yourself
 
 !?[Introducing yourself](https://video.tu-freiberg.de/video/IEP-1-Introducing-yourself/4349372d9d69e2415729b1a3a2fab941)
