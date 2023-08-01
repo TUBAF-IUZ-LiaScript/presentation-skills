@@ -1,4 +1,4 @@
-lia <!--
+<!--
 author:   Mark Jacob
 email:    Mark.Jacob@iuz.tu-freiberg.de
 version:  0.1.0
@@ -8,6 +8,8 @@ narrator: US English Female
 comment:  A series of videos with tips and phrases for using in presentations.
 
 -->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://github.com/TUBAF-IUZ-LiaScript/presentation-skills/blob/main/impactful_english_presentations.md)
 
 # IEP Video series
 
